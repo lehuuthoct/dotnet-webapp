@@ -12,4 +12,9 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\..\note\git.md">
+      <Link>git.md</Link>
+    </None>
+  </ItemGroup>
 </Project>

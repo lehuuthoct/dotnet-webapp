@@ -1,0 +1,14 @@
+/Users/lht/app/dotnet/hwwebapp/bin/Debug/netcoreapp2.1/hwwebapp.deps.json
+/Users/lht/app/dotnet/hwwebapp/bin/Debug/netcoreapp2.1/hwwebapp.runtimeconfig.json
+/Users/lht/app/dotnet/hwwebapp/bin/Debug/netcoreapp2.1/hwwebapp.runtimeconfig.dev.json
+/Users/lht/app/dotnet/hwwebapp/bin/Debug/netcoreapp2.1/hwwebapp.dll
+/Users/lht/app/dotnet/hwwebapp/bin/Debug/netcoreapp2.1/hwwebapp.pdb
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.csprojAssemblyReference.cache
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.csproj.CoreCompileInputs.cache
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.RazorAssemblyInfo.cache
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.RazorAssemblyInfo.cs
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.AssemblyInfoInputs.cache
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.AssemblyInfo.cs
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.RazorTargetAssemblyInfo.cache
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.dll
+/Users/lht/app/dotnet/hwwebapp/obj/Debug/netcoreapp2.1/hwwebapp.pdb

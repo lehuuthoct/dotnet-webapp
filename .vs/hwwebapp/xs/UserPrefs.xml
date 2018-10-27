@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{F677A887-C266-4ED4-8560-9C318C2D53F4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="hwwebapp Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../note/git.md">
     <Files>
       <File FileName="Startup.cs" Line="30" Column="7" />
       <File FileName="hwwebapp Status" />
+      <File FileName="../../note/git.md" Line="9" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
